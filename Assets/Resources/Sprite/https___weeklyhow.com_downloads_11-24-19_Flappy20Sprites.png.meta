@@ -1,0 +1,1398 @@
+fileFormatVersion: 2
+guid: 6aa7889362d26f343a03fa71e374f3b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698d194de45f97438de1e5ad5147ab9
+      internalID: -583207508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 97
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0a41e6f6bd72e4792b9e3c71f6b42b
+      internalID: -9572793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f6e0560ca51748bc206f464863f4c
+      internalID: 1007080972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 194
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b07d6c067f8641b6b80bcd2e05497
+      internalID: -1654453354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f24f8d7abb0934984406411c8156ec
+      internalID: 1666812549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 205
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da77a4c46e522394099a218edf2d8a0d
+      internalID: 1092794922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c197df95ac8454b92be9dbd8ef8a07
+      internalID: -1546226190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef061cf4d20f1249ad4ba4b19c343bf
+      internalID: -93899422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 162
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987b29288ab90f24487aaea5746e0f04
+      internalID: -1575370274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 168
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e86560c4ccff940856df14e5fc4e76
+      internalID: -2061411867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6893eb54e7ee1a4abea53072f91290b
+      internalID: -1576433130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 175
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee40c1142905d44683c5c99b7f7d5dc
+      internalID: -1688082300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f6f1875cc7714fbd87954133fd0b5
+      internalID: -1011330719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 175
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d25e4102686c43878d15cf543fef3
+      internalID: 1680292693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 136
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25820f6c1566afb4188868a80351045f
+      internalID: 162640406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 148
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2723372f47c364aadf17cd2a2c0bc4
+      internalID: 1382942356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91139220848bd474380315e406e96a06
+      internalID: 964470850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 145
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c27e33a6e67e54eb72813aa3834dfc
+      internalID: -100151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f13f1dddbfcae4da53b9110ff23386
+      internalID: 1057075878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 152
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988920ed0d9c754d8e232ee71cd86b9
+      internalID: -679344916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 152
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a22e27eaf6b624d8bc88297f3925dc
+      internalID: -1320057366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 136
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69b40a531b0744f996e7bf9f2ac09c
+      internalID: -1298334210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 140
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb78d2339e711e45a04147a1047ccdb
+      internalID: -1138427038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 117
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a1dda04cb6b644b30aa486c1f49d5
+      internalID: -1044988958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6c7e76cdd1a44d9c0e38a4e50bf57
+      internalID: 1661355582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 124
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea969e56a3a0534894c9328f92ee004
+      internalID: -779669260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0081c8a3437c5a43b44255168ef211f
+      internalID: 143151206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 108
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d39ea450eb7ce4280635b448504652
+      internalID: -1021538231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 92
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f832ccdc07196e9469c43ed05d8bead3
+      internalID: 1795537752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051650a96abb5d441baa5813ea954247
+      internalID: -1860130195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb1fb3d11efff4682c958e60c8dff7
+      internalID: 2065953473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247c26178f1eb646b3d08c3202ccfe1
+      internalID: 1910811192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 94
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81f779866e1024d9a559e6ce4cdde2
+      internalID: -472329765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438e785c4602c74fba1e5d2f1bfb4a2
+      internalID: 674046296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eac6fb6fd1a4241928267ba39e6c92
+      internalID: -1388073382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 66
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99646d50437824fb0190c7dcbad871
+      internalID: -1602848089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05cdf8b8d1a6e14986e58fef7bc2b27
+      internalID: 258476251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a9ef43fe1dab40889f9d700417132
+      internalID: -720499593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 73
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c29889216ad094ba5162076be39dce
+      internalID: -2105419660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cb77aa31ed72a4a897fb80ce0f99c7
+      internalID: -1138101248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056ab5d78b49354586e0b431bfae21d
+      internalID: -959247510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22e04ba26070d4b968ac8af33d160b
+      internalID: -424877600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc59f6d99da27849bb4e69e23faa3f5
+      internalID: -1252472047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ce638c913a974bb25fa30e8654ebe
+      internalID: 772457345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ae70570faa624385d82c30f5830e0
+      internalID: 1976429120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e6f5b5d210c914b840b0752825a474
+      internalID: 204170966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 70
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750a5de8d725684583f6b24abed5213
+      internalID: -605458279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa871982d6c31db4f990e824df8f4707
+      internalID: -1003092463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1774cfab33eeb94e84dd7c506b90ff5
+      internalID: -1136767708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fa6999434eb34fa2bb223408e3b73
+      internalID: 334915162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e17120d32559945b068e59ba03ed0d
+      internalID: 1080737615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9508e5ad61bebbb41a85d745affedec4
+      internalID: 373529124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 61
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433860df4c84e14a965e822353f5dde
+      internalID: 1888540216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffa581e3e6f7fb419d926f2ec81126c
+      internalID: 1247184762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 35
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5803749851044eb3f26d9fe088365
+      internalID: 1287883927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5903e342fd09468b187b5972d6f17
+      internalID: 1287544378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_0: -583207508
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_1: -9572793
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_10: -1576433130
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_11: -1688082300
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_12: -1011330719
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_13: 1680292693
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_14: 162640406
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_15: 1382942356
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_16: 964470850
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_17: -100151016
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_18: 1057075878
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_19: -679344916
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_2: 1007080972
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_20: -1320057366
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_21: -1298334210
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_22: -1138427038
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_23: -1044988958
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_24: 1661355582
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_25: -779669260
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_26: 143151206
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_27: -1021538231
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_28: 1795537752
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_29: -1860130195
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_3: -1654453354
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_30: 2065953473
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_31: 1910811192
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_32: -472329765
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_33: 674046296
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_34: -1388073382
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_35: -1602848089
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_36: 258476251
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_37: -720499593
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_38: -2105419660
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_39: -1138101248
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_4: 1666812549
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_40: -959247510
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_41: -424877600
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_42: -1252472047
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_43: 772457345
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_44: 1976429120
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_45: 204170966
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_46: -605458279
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_47: -1003092463
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_48: -1136767708
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_49: 334915162
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_5: 1092794922
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_50: 1080737615
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_51: 373529124
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_52: 1888540216
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_53: 1247184762
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_54: 1287883927
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_55: 1287544378
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_6: -1546226190
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_7: -93899422
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_8: -1575370274
+      https___weeklyhow.com_downloads_11-24-19_Flappy20Sprites_9: -2061411867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

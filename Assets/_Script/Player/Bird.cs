@@ -15,25 +15,41 @@ public class Bird : MonoBehaviour
     public GameObject PipeSpawner;
     public GameObject Message;
     public GameObject GameOver;
-    protected Animator anim;
+    public Animator anim;
     protected Rigidbody2D rb;
 
+    public CharacterDatabase characterDB;
+
+    public SpriteRenderer playlerSprite;
+
+    private int selectedOption = 0;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         rb.gravityScale = 0;
+        if (!PlayerPrefs.HasKey("selectedOption"))
+        {
+            selectedOption = 0;
+        }
+        else
+        {
+            Load();
+        }
+
+        UpdateCharacter(selectedOption);
     }
 
 
     private void Update()
     {
         CheckInput();
+        isFly = true;
     }
 
     private void FixedUpdate()
     {
-        PlayAnim();
+       PlayAnim();
     }
 
     private void Move()
@@ -43,6 +59,7 @@ public class Bird : MonoBehaviour
 
     private void CheckInput()
     {
+        
         if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
         {
             Time.timeScale = 1f;
@@ -76,9 +93,21 @@ public class Bird : MonoBehaviour
         SoundController.instance.PlaySound("point", 0.5f);
     }
 
-    public void ReloadScene()
+    private void UpdateCharacter(int selectedOption)
     {
-        SceneManager.LoadScene("Main");
+        Character character = characterDB.GetCharactor(selectedOption);
+        playlerSprite.sprite = character.characterSprite;
+        anim.runtimeAnimatorController = character.controllerRunTime;
+    }
+
+    private void Load()
+    {
+        selectedOption = PlayerPrefs.GetInt("selectedOption");
+    }
+
+    public void ReloadScene(int ScenceID)
+    {
+        SceneManager.LoadScene(ScenceID);
     }
 
 
