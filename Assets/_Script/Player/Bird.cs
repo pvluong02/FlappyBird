@@ -5,16 +5,20 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 public class Bird : MonoBehaviour
 {
+    public ScoreManager scoreManager;
     public Text scoreText;
-
+    
     private bool isFly;
-    private int score = 0;
-
+    public int score = 0;
+    
+    private float rotationSpeed = 8f;
     public float flyForce = 4f;
 
     public GameObject PipeSpawner;
     public GameObject Message;
     public GameObject GameOver;
+    public GameObject ShowScore;
+
     public Animator anim;
     protected Rigidbody2D rb;
 
@@ -43,6 +47,7 @@ public class Bird : MonoBehaviour
 
     private void Update()
     {
+
         CheckInput();
         isFly = true;
     }
@@ -50,6 +55,7 @@ public class Bird : MonoBehaviour
     private void FixedUpdate()
     {
        PlayAnim();
+        transform.rotation = Quaternion.Euler(0, 0, rb.velocity.y * rotationSpeed);
     }
 
     private void Move()
@@ -82,15 +88,25 @@ public class Bird : MonoBehaviour
         Debug.Log("die");
         SoundController.instance.PlaySound("die", 0.5f);
         Time.timeScale = 0;
-        GameOver.SetActive(true);
-        score = 0;
+        ShowScorePanel();
     }
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        score+= 1;
+        Debug.Log("+1");
+
+        IncreasePoint();
+
+
         scoreText.text = score.ToString();
         SoundController.instance.PlaySound("point", 0.5f);
+    }
+
+    //ham tang diem
+    public int IncreasePoint()
+    {
+        score += 1;
+        return score;
     }
 
     private void UpdateCharacter(int selectedOption)
@@ -100,14 +116,23 @@ public class Bird : MonoBehaviour
         anim.runtimeAnimatorController = character.controllerRunTime;
     }
 
+    private void ShowScorePanel()
+    {
+        GameOver.SetActive(true);
+    }
+
+
+
     private void Load()
     {
         selectedOption = PlayerPrefs.GetInt("selectedOption");
     }
 
+
     public void ReloadScene(int ScenceID)
     {
         SceneManager.LoadScene(ScenceID);
+
     }
 
 
@@ -118,4 +143,5 @@ public class Bird : MonoBehaviour
     }
 
     
+   
 }

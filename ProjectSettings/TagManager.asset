@@ -59,3 +59,9 @@ TagManager:
   - name: GameOver
     uniqueID: 2483408047
     locked: 0
+  - name: panelScore
+    uniqueID: 1180777691
+    locked: 0
+  - name: coin
+    uniqueID: 2888024033
+    locked: 0

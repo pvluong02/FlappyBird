@@ -14,8 +14,11 @@ public class ChatacterManager : MonoBehaviour
 
     private int selectedOption = 0;
     // Start is called before the first frame update
+
+  
     void Start()
     {
+        PlayAnim();
         if (!PlayerPrefs.HasKey("selectedOption"))
         {
             selectedOption = 0;
@@ -28,11 +31,7 @@ public class ChatacterManager : MonoBehaviour
         UpdateCharacter(selectedOption);
         
     }
-    private void Update()
-    {
-        PlayAnim();
-    }
-
+    
     public void NexOption()
     {
         selectedOption++;
@@ -44,6 +43,7 @@ public class ChatacterManager : MonoBehaviour
 
         UpdateCharacter(selectedOption);
         Save();
+        PlayAnim();
     }
 
     public void BackOption()
@@ -55,6 +55,7 @@ public class ChatacterManager : MonoBehaviour
         }
         UpdateCharacter(selectedOption);
         Save();
+        PlayAnim();
     }
     private void UpdateCharacter(int selectedOption)
     {
