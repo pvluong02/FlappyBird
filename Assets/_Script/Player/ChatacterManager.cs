@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using UnityEditor.Animations;
 
 public class ChatacterManager : MonoBehaviour
 {
@@ -18,7 +17,6 @@ public class ChatacterManager : MonoBehaviour
   
     void Start()
     {
-        PlayAnim();
         if (!PlayerPrefs.HasKey("selectedOption"))
         {
             selectedOption = 0;

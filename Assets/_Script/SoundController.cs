@@ -18,4 +18,6 @@ public class SoundController : MonoBehaviour
         audioSource.PlayOneShot((AudioClip)Resources.Load("Sounds/" + clipname, typeof(AudioClip)));
 
     }
+
+
 }

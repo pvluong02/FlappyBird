@@ -32,6 +32,7 @@ public class PipeSpawner : MonoBehaviour
     {
         if(enableSpawnerPipe == true)
         {
+            timeDuration = Random.Range(2, 4);
             countDown -= Time.deltaTime;
             if (countDown <= 0)
             {
